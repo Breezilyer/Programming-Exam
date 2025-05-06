@@ -16,7 +16,7 @@ namespace Programmerings_Eksamen
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new loginPage());
         }
     }
 }

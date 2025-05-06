@@ -1,0 +1,10 @@
+C:\Users\emilp\source\repos\Programmerings Eksamen\bin\Debug\Programmerings Eksamen.exe.config
+C:\Users\emilp\source\repos\Programmerings Eksamen\bin\Debug\Programmerings Eksamen.exe
+C:\Users\emilp\source\repos\Programmerings Eksamen\bin\Debug\Programmerings Eksamen.pdb
+C:\Users\emilp\source\repos\Programmerings Eksamen\obj\Debug\Programmerings Eksamen.csproj.AssemblyReference.cache
+C:\Users\emilp\source\repos\Programmerings Eksamen\obj\Debug\Programmerings_Eksamen.loginPage.resources
+C:\Users\emilp\source\repos\Programmerings Eksamen\obj\Debug\Programmerings_Eksamen.Properties.Resources.resources
+C:\Users\emilp\source\repos\Programmerings Eksamen\obj\Debug\Programmerings Eksamen.csproj.GenerateResource.cache
+C:\Users\emilp\source\repos\Programmerings Eksamen\obj\Debug\Programmerings Eksamen.csproj.CoreCompileInputs.cache
+C:\Users\emilp\source\repos\Programmerings Eksamen\obj\Debug\Programmerings Eksamen.exe
+C:\Users\emilp\source\repos\Programmerings Eksamen\obj\Debug\Programmerings Eksamen.pdb

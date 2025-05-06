@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Programmerings_Eksamen
 {
-    public partial class Form1 : Form
+    public partial class adminPanel : Form
     {
-        public Form1()
+        public adminPanel()
         {
             InitializeComponent();
         }
