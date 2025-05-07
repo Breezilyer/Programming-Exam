@@ -12,9 +12,11 @@ namespace Programmerings_Eksamen
 {
     public partial class CustomerPage : Form
     {
-        public CustomerPage(string username, string password)
+        public CustomerPage(string username, string password, string amount)
         {
             InitializeComponent();
+            WelcomeLabel.Text = $"Welcome, {username}";
+            MailLabel.Text = $"You have {amount} unread mails";
         }
 
         private void exit_button_Click(object sender, EventArgs e)

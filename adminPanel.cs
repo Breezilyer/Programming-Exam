@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -50,6 +51,13 @@ namespace Programmerings_Eksamen
         {
             Customer c = Customer.deleteCustomer(deleteCustomerTextBox.Text);
             deleteCustomerTextBox.Text = "";
+        }
+
+        private void SendMailButton_Click(object sender, EventArgs e)
+        {
+            string path = $@"{username}s Mail";
+            string filename = @"test.txt";
+            string finalpath = Path.Combine(path + "s Mail", filename);
         }
     }
 }

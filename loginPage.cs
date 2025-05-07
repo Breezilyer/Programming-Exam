@@ -38,7 +38,7 @@ namespace Programmerings_Eksamen
                 if (customer != null && customer.Username == username && customer.Password == password)
                 {
                     this.Hide();
-                    var customerPage = new CustomerPage(customer.Username, customer.Password);
+                    var customerPage = new CustomerPage(customer.Username, customer.Password, customer.Amount);
                     customerPage.Show();
                 }
             }
