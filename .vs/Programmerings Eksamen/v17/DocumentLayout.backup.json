@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|c:\\users\\emilp\\source\\repos\\programmerings eksamen\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|solutionrelative:loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|c:\\users\\emilp\\source\\repos\\programmerings eksamen\\file handling folder\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|solutionrelative:file handling folder\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|c:\\users\\emilp\\source\\repos\\programmerings eksamen\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|solutionrelative:loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|c:\\users\\emilp\\source\\repos\\programmerings eksamen\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|solutionrelative:adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|c:\\users\\emilp\\source\\repos\\programmerings eksamen\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|solutionrelative:adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|c:\\users\\emilp\\source\\repos\\programmerings eksamen\\file handling folder\\filehandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|c:\\users\\emilp\\source\\repos\\programmerings eksamen\\customerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|solutionrelative:customerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|c:\\users\\emilp\\source\\repos\\programmerings eksamen\\customerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|solutionrelative:customerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\file handling folder\\filehandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|solutionrelative:file handling folder\\filehandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|c:\\users\\emilp\\source\\repos\\programmerings eksamen\\file handling folder\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|solutionrelative:file handling folder\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|solutionrelative:loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{972DF8FF-5B8E-4BD9-AB4C-3C6E1058657C}|Programmerings Eksamen.csproj|solutionrelative:loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +42,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "adminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\adminPanel.cs",
+              "RelativeDocumentMoniker": "adminPanel.cs",
+              "ToolTip": "C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\adminPanel.cs",
+              "RelativeToolTip": "adminPanel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:42:34.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\File Handling Folder\\Customer.cs",
+              "RelativeDocumentMoniker": "File Handling Folder\\Customer.cs",
+              "ToolTip": "C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\File Handling Folder\\Customer.cs",
+              "RelativeToolTip": "File Handling Folder\\Customer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:59:57.955Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -41,51 +79,63 @@
               "ToolTip": "C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\adminPanel.cs [Design]",
               "RelativeToolTip": "adminPanel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T21:08:01.911Z",
+              "WhenOpened": "2025-05-07T10:39:59.298Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CustomerPage.cs",
+              "DocumentMoniker": "C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\CustomerPage.cs",
+              "RelativeDocumentMoniker": "CustomerPage.cs",
+              "ToolTip": "C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\CustomerPage.cs",
+              "RelativeToolTip": "CustomerPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:33:46.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\CustomerPage.cs",
+              "RelativeDocumentMoniker": "CustomerPage.cs",
+              "ToolTip": "C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\CustomerPage.cs [Design]",
+              "RelativeToolTip": "CustomerPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:32:13.025Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FileHandling.cs",
               "DocumentMoniker": "C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\File Handling Folder\\FileHandling.cs",
               "RelativeDocumentMoniker": "File Handling Folder\\FileHandling.cs",
               "ToolTip": "C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\File Handling Folder\\FileHandling.cs",
               "RelativeToolTip": "File Handling Folder\\FileHandling.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T21:03:20.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\File Handling Folder\\Customer.cs",
-              "RelativeDocumentMoniker": "File Handling Folder\\Customer.cs",
-              "ToolTip": "C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\File Handling Folder\\Customer.cs",
-              "RelativeToolTip": "File Handling Folder\\Customer.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwEoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:59:57.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "loginPage.cs",
               "DocumentMoniker": "C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\loginPage.cs",
               "RelativeDocumentMoniker": "loginPage.cs",
               "ToolTip": "C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\loginPage.cs",
               "RelativeToolTip": "loginPage.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwB8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T14:44:56.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "loginPage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\emilp\\source\\repos\\Programmerings Eksamen\\loginPage.cs",
               "RelativeDocumentMoniker": "loginPage.cs",

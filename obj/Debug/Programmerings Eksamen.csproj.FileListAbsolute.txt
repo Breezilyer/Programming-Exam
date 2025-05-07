@@ -8,3 +8,5 @@ C:\Users\emilp\source\repos\Programmerings Eksamen\obj\Debug\Programmerings Eksa
 C:\Users\emilp\source\repos\Programmerings Eksamen\obj\Debug\Programmerings Eksamen.csproj.CoreCompileInputs.cache
 C:\Users\emilp\source\repos\Programmerings Eksamen\obj\Debug\Programmerings Eksamen.exe
 C:\Users\emilp\source\repos\Programmerings Eksamen\obj\Debug\Programmerings Eksamen.pdb
+C:\Users\emilp\source\repos\Programmerings Eksamen\obj\Debug\Programmerings_Eksamen.adminPanel.resources
+C:\Users\emilp\source\repos\Programmerings Eksamen\obj\Debug\Programmerings_Eksamen.CustomerPage.resources

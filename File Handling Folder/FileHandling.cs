@@ -21,7 +21,7 @@ namespace BankSystem.File_Handling_Folder
             }
 
             StreamWriter CustomerCreate = File.AppendText(path);
-            CustomerCreate.WriteLine(c.Username + "," + c.Password);
+            CustomerCreate.WriteLine(c.Username + "," + c.Password + "," + c.Amount);
             CustomerCreate.Close();
         }
     }
