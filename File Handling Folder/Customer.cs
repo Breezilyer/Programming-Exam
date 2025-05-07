@@ -15,14 +15,12 @@ namespace BankSystem.File_Handling_Folder
         static string path = @"Customers.csv";
         public string Username { get; set; }
         public string Password { get; set; }
-        public string Amount { get; set; }
 
 
-        public Customer(string username, string password, string amount)
+        public Customer(string username, string password)
         {
             Username = username;
             Password = password;
-            Amount = amount;
         }
 
         public void Create()
@@ -35,11 +33,6 @@ namespace BankSystem.File_Handling_Folder
         {
             string path = $@"{username}";
             Directory.CreateDirectory(path + "s Mail");
-
-            // For testing
-            string filename = @"test.txt";
-            string finalpath = Path.Combine(path + "s Mail", filename);
-
             return null;
         }
 
@@ -84,9 +77,9 @@ namespace BankSystem.File_Handling_Folder
         public static Customer FromFileFormat(string line)
         {
             string[] parts = line.Split(',');
-            if (parts.Length == 3)
+            if (parts.Length == 2)
             {
-                return new Customer(parts[0], parts[1], parts[2]);
+                return new Customer(parts[0], parts[1]);
             }
             return null;
         }
